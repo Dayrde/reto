@@ -2,7 +2,8 @@
   "users":[
     {
       "id":1,
-      "username":"dayron"
+      "username":"dayron",
+      "password":"123456"
     }
   ],
   "products": [
