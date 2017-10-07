@@ -1,9 +1,9 @@
 {
   "users":[
     {
-      "id":1,
-      "name":"dayron",
-      "password":"123456"
+      "userName":"a",
+      "userEmail":"a",
+      "userPassword":"a"
     }
   ],
   "products": [
@@ -36,7 +36,7 @@
       "categoria":2
     }
   ],
-  "category": [
+  "categories": [
   	{
       	"id": 1,
     	"name": "Camisetas"
